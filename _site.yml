@@ -1,0 +1,17 @@
+name: "scRNA Data from Kun Zhang Group"
+output_dir: "."
+navbar:
+  title: "scRNA Data from Kun Zhang Group"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+#    - text: "Visualization of Zhang Group Data"
+#      icon: 
+#      href: 
+    - text: "About"
+      icon: fa-info
+      href: about.html
+output:
+  html_document:
+      theme: paper
